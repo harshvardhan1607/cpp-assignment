@@ -10,5 +10,5 @@ All code files are written in **C++**.
 ## 🏫 Academic Details
 **Course:** Computer Science and Engineering (CCE)  
 **Section:** C  
-**Author:** Ambuj Mishra  
-**Registration Number:** 2428010013
+**Author:** Harsh Vardhan
+**Registration Number:** 2428010017
